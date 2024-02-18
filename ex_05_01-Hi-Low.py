@@ -16,4 +16,4 @@ while True :
     tot = tot + fval
     list.append(fval)
 #print('ALL DONE')
-print('\nTotal: ' + str(tot) + '\nMin: ' + str(min(list)) + '\nMax: ' + str(max(list)) + '\n')
+print('\nTotal: ', tot, '\nMin: ', min(list), '\nMax: ', max(list), '\n')
